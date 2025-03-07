@@ -1,2 +1,1 @@
 # ParticleDiffusion
-By Gökdeniz ÖZÇELİK
